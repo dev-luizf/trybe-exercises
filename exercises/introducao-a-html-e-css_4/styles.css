@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+h1, h2, h3, h4 {
+    text-align: center;
+    padding: 2%;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: linear-gradient(111.7deg,#8ccae7 19.9%,#159ae2 95%);
+}
+
+p {
+    width: 50%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+header {
+    margin-top: 3%;
+    padding: 2%;
+    font-weight: bold;
+    font-size: xx-large;
+    color: blueviolet;
+}
+
+#nav-bar {
+    margin-left: 2%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+
+#list-content {
+    text-align: left;
+    width: 40%;
+    margin: auto;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: 78%;
+}
+
+hr {
+    margin-top: 20px;
+    border-color: rgb(130, 199, 204);
+}
+
+.btn {
+    color: rgb(0, 0, 0);
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 5px 10px;
+    text-decoration: none;
+    background-position: center;
+    width: 100px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+td, th {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #b5d8d8;
+}
+
+tr:nth-child(odd) {
+    background-color: #6bafbb;
+}
+
+footer {
+    margin-top: 10%;
+    text-align: center;
+    margin-bottom: 1%;
+}
+caption {
+    margin-bottom: 3%;
+}
+#action {
+    height: 300px;
+}

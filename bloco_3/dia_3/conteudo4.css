@@ -1,0 +1,37 @@
+div:hover {
+    border: solid black;
+
+}
+.cor1 {
+    background-color: blue;
+
+}
+.cor2 {
+    background-color: brown;
+    
+}
+.cor3 {
+    background-color: chartreuse;
+    padding: 20px;
+}
+.cor4 {
+    background-color: black;
+}
+.cor5 {
+    background-color: cornflowerblue;
+}
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+h1, h3, h5 {
+    font-style: italic;
+}
+
+p.perigo {
+    font-size: large;
+}
+ul li p {
+
+}
